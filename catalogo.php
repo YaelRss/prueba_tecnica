@@ -86,7 +86,7 @@ $result = $conn->query($sql);
                 echo '<img src="' . htmlspecialchars($row["imagen"]) . '" style="width:100%; height:150px; object-fit:contain; border-radius:8px; display:block; margin:0 auto;">';
                 echo '<h3>' . htmlspecialchars($row["nombre"]) . '</h3>';
                 echo '<p class="precio">$' . number_format($row["precio"], 2) . '</p>';
-                echo '<a href="enviar.php?juguete=' . urlencode($row["nombre"]) . '" class="btn" style="text-align:center;">Enviar</a>';
+                echo '<a href="envio.php?juguete=' . urlencode($row["nombre"]) . '" class="btn" style="text-align:center;">Enviar</a>';
                 echo '</div>';
             }
         } else {
