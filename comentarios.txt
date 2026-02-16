@@ -1,3 +1,5 @@
-me tome la libertad de reciclar algunas funciones, diseños y estructura de proyectos que eh realizado omo front
-al igual el uso de varias tecnoilogias y documentaciones, dentro de las cuales use php.net, W3Schools, MDN Web Docs, MySQL Documentation,
-al igual youtube para saber como conectar la base de datos con php e instalacion de mamp y sitios web como stackoverflow
+me tome la libertad de reciclar algunas funciones, diseños y estructura de proyectos que eh realizado como front,
+al igual el uso de varias tecnologias y documentaciones para cierto tipo de funciones, dentro de las cuales use php.net, W3Schools, MDN Web Docs, MySQL Documentation,
+al igual youtube para saber como conectar la base de datos con php e instalacion de mamp y sitios web como stackoverflow para cosas mas especificas.
+
+el apoyo de la IA como copilot de VSCode para tener un mejor manejo de estructura y sintaxis.
