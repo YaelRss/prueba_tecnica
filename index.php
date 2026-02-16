@@ -11,7 +11,7 @@
             flex-direction: column;
             align-items: center; 
             padding-top: 50px; 
-            background: linear-gradient(135deg, #182bf9 0%, #7c1fc8 50%, #eb13b9 100%);
+            background: linear-gradient(135deg, #2529ff 0%, #000000 50%, #cc1ae4 100%);
             margin: 0;
             min-height: 100vh;
             font-size: 18px;
@@ -60,7 +60,7 @@
     <div id="saludo-dinamico"></div>
 
     <form action="catalogo.php" method="POST">
-        <h2 style="text-align:center">Ingresa tus datos</h2>
+        <h2 style="text-align:center">INGRESA TUS DATOS</h2>
         <label>Nombre:</label>
         <input type="text" name="nombre" id="nombre" required>
         
